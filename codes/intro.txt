@@ -1,0 +1,1 @@
+These are the codes written in java that are done in the class lectures or youtube lectures.
